@@ -1,10 +1,10 @@
 ## Hi, I'm ArresXD 👋  
 SAMP Developer | Lua & Pawn Enthusiast | Server Management  
 
-- 🚀 Currently working on **[Your Project](https://github.com/your-repo)**
+- 🚀 Currently working on **[Your Project](https://github.com/waiting)**
 - 🔧 Specializing in **Pawn, Lua, MySQL, and Roleplay Systems**
 - 🎯 Open to collaboration on **SAMP scripting projects**
-- 📫 Reach me at **youremail@example.com**  
+- 📫 Reach me at **xxxxxxxx@example.com**  
 
 ---
 
