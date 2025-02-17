@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm ArresXD 👋  
+SAMP Developer | Lua & Pawn Enthusiast | Server Management  
 
-<!--
-**ArresXD/ArresXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Currently working on **[Your Project](https://github.com/your-repo)**
+- 🔧 Specializing in **Pawn, Lua, MySQL, and Roleplay Systems**
+- 🎯 Open to collaboration on **SAMP scripting projects**
+- 📫 Reach me at **youremail@example.com**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack  
+![Pawn](https://img.shields.io/badge/-Pawn-000?style=flat&logo=cplusplus)  
+![Lua](https://img.shields.io/badge/-Lua-000?style=flat&logo=lua)  
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)  
+![GTA SAMP](https://img.shields.io/badge/-GTA%20SAMP-000?style=flat&logo=grand-theft-auto)  
+
+---
+
+### GitHub Stats  
+![ArresXD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArresXD&show_icons=true&hide_title=true&hide_border=true&theme=graywhite)  
+
+---
+
+_"Code, test, repeat – until perfection."_
